@@ -7,4 +7,4 @@ To find resultants for any (rational) links you're interested in, use the code i
 
 Since github doesn't play the nicest with Mathematica notebooks, all three files are included in the zip file "RationalLinkFertility.zip".
 
-If you use this code for any official purposes, please cite an upcoming paper, currently submitted to the Journal of Knot Theory and its Ramifications.
+If you use this code for any official purposes, please cite my article "Rational link fertility" in Acta Hungarica Mathematica (https://doi.org/10.1007/s10474-026-01619-6).
